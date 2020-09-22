@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning DeepLearning
 
 
-![yulhee741's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+![yulhee741's github stats](https://github-readme-stats.vercel.app/api?username=yulhee741&show_icons=true)
