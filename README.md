@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😁 Hello! This is Minsgy, GitHub Page
+😁 Hello! This is YulHee, GitHub Page
 
 💻 belong to organization SCH-Likelion 8th 🦁
 
