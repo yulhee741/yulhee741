@@ -16,7 +16,7 @@
 
 😏 I will commit every day.
 
-🌱 I’m currently learning DeepLearning
+🌱 I’m currently learning DeepLearning!!
 
 **Languages:**
 
