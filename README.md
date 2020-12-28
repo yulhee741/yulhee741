@@ -10,7 +10,7 @@
 
 😁 Hello! This is YulHee, GitHub Page
 
-💻 belong to organization SCH-Likelion 8th 🦁
+💻 Likelion 9th Organizer at sch 🦁
 
 🤩 Programming I Have Learned C, C++, JAVA, Django, HTML/CSS, Python ...
 
