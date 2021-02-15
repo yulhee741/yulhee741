@@ -18,7 +18,6 @@
 
 🌱 I’m currently learning DeepLearning!!
 
-🧚 Velog : <https://velog.io/@yulhee741>
 
 **Languages:**
 
