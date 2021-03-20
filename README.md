@@ -32,6 +32,7 @@
 ![yulhee741's github stats](https://github-readme-stats.vercel.app/api?username=yulhee741&show_icons=true&hide_border=True&&theme=buefy)
 
 
-![Uploading Dubu3.png…]()
+![Dubu3](https://user-images.githubusercontent.com/64319351/111869663-cb74f580-89c3-11eb-9cdd-8e69301ac1a1.png)
+
 
 
