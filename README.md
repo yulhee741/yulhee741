@@ -5,6 +5,8 @@
 	
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yulludy/)](https://www.instagram.com/yulludy/)	
  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yulhee's Velog)](https://velog.io/@yulhee741) 
+
 
 </div>
 
