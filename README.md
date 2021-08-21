@@ -3,8 +3,8 @@
 
 <div align=center>
 	
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yulludy/)](https://www.instagram.com/yulludy/)		
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yulhee)](https://velog.io/@yulhee741) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yulludy/)](https://www.instagram.com/yulludy/)
+<a href="https://velog.io/@yulhee741" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 </div>
 
