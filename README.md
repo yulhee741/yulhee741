@@ -6,6 +6,8 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yulludy/)](https://www.instagram.com/yulludy/)
 <a href="https://velog.io/@yulhee741" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyulhee741&count_bg=%2371B9FF&title_bg=%23393939&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+	
 </div>
 
 😁 Hello! This is YulHee, GitHub Page
